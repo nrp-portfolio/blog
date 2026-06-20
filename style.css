@@ -3,12 +3,9 @@ body {
     color: white;
     font-family: Gill Sans;
 }
-a:visited {
+a {
     color: white;
 ｝
-a:link {
-    color: white;
-}
 .header {
     display: block;
     width: 700px;
