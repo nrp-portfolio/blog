@@ -1,11 +1,14 @@
+/* background / color / font - whole page */
 body {
     background-color: black;
     color: white;
     font-family: "Helvetica";
 }
+/* color - links */
 a {
     color: white;
 }
+/* format / size / border distance / border style - header */
 .header {
     display: block;
     width: 700px;
@@ -13,6 +16,7 @@ a {
     border: 5px solid white;
     margin: 0 auto;
 }
+/* format / size / border distance / border style - header */
 .block {
     display: block;
     width: 600px;
